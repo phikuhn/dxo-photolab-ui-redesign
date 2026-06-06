@@ -2,6 +2,8 @@
 
 > Un exercice de design personnel, réalisé par amour du développement photo et en hommage aux équipes de DxO.
 
+Lien : https://phikuhn.github.io/dxo-photolab-ui-redesign/
+
 ---
 
 ## Contexte
